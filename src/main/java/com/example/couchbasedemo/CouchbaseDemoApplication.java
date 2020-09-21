@@ -47,6 +47,6 @@ public class CouchbaseDemoApplication {
         System.out.println("Deleting all examples");
         exampleRepository.deleteAll();
         System.out.println("Examples in db: " + exampleRepository.count());
-    }
+   }
 
 }

@@ -18,7 +18,7 @@ public class CouchbaseConfiguration extends AbstractCouchbaseConfiguration {
 
     @Override
     public String getPassword() {
-        return "password";
+        return "michal13";
     }
 
     @Override
